@@ -62,6 +62,9 @@ else:
 ```
 ## OUTPUT:
 
+<img width="995" height="239" alt="image" src="https://github.com/user-attachments/assets/f376fdaa-9a3d-41aa-bae5-84c05808a760" />
+
+
 ## Result:
 
 Thus,the program is executed successfully.
