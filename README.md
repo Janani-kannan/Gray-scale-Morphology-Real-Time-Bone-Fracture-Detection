@@ -1,8 +1,8 @@
 # Gray-scale-Morphology-Real-Time-Bone-Fracture-Detection
 ```
-Name: M.Mounika
+Name: JANANI K
 
-Register no: 212224040202
+Register no: 212224230102
 ```
 ## AIM:
 To perform real-time object detection using a trained YOLO v4 model through your laptop camera.
@@ -50,8 +50,8 @@ def present_results(original_image, processed_image):
     plt.show()
 
 # --- Main Execution ---
-image_path = 'fracture.jpg'
-image = cv2.imread(image_path)
+
+image = cv2.imread("C:\\Users\\admin\\Downloads\\images (1).jpg")
 
 if image is None:
     print("Error: Image not found. Check the file path.")
@@ -61,7 +61,6 @@ else:
     present_results(image, fracture_detected_image)
 ```
 ## OUTPUT:
-<img width="1244" height="318" alt="Screenshot 2025-11-10 232335" src="https://github.com/user-attachments/assets/e0ae35b2-aed8-46ff-b086-3d220e2a277f" />
 
 ## Result:
 
